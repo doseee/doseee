@@ -30,7 +30,7 @@
   
   <div><h3 align="center">📓 Portfolio 📓</h3></div>
 <div align="center">
-  <a href="https://github.com/doseee/doseee/files/12209841/default.pdf">
+  <a href="https://github.com/doseee/algostudy/files/12643935/1.pdf">
     <img src="https://img.shields.io/badge/-Download-white">
   <a/>
 </div>
